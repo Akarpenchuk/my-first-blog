@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+site
+db.sqlite3
+.DS_Store
+read_me.txt
